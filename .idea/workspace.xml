@@ -2,225 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9431f233-d496-4a6b-8903-0d2f6eb5bd4f" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/awcClient/AWSECommerceService.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/awcClient/AWSECommerceServicePortType.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/awcClient/Accessories$Accessory.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/awcClient/Accessories.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/awcClient/Arguments$Argument.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/awcClient/Arguments.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/awcClient/Bin$BinParameter.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/awcClient/Bin.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/awcClient/BrowseNode$Ancestors.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/awcClient/BrowseNode$Children.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/awcClient/BrowseNode$Properties.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/awcClient/BrowseNode.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/awcClient/BrowseNodeLookup.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/awcClient/BrowseNodeLookupRequest.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/awcClient/BrowseNodeLookupResponse.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/awcClient/BrowseNodes.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/awcClient/Cart.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/awcClient/CartAdd.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/awcClient/CartAddRequest$Items$Item.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/awcClient/CartAddRequest$Items.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/awcClient/CartAddRequest.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/awcClient/CartAddResponse.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/awcClient/CartClear.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/awcClient/CartClearRequest.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/awcClient/CartClearResponse.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/awcClient/CartCreate.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/awcClient/CartCreateRequest$Items$Item$MetaData.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/awcClient/CartCreateRequest$Items$Item.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/awcClient/CartCreateRequest$Items.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/awcClient/CartCreateRequest.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/awcClient/CartCreateResponse.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/awcClient/CartGet.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/awcClient/CartGetRequest.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/awcClient/CartGetResponse.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/awcClient/CartItem$MetaData$KeyValuePair.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/awcClient/CartItem$MetaData.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/awcClient/CartItem.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/awcClient/CartItems.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/awcClient/CartModify.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/awcClient/CartModifyRequest$Items$Item.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/awcClient/CartModifyRequest$Items.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/awcClient/CartModifyRequest.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/awcClient/CartModifyResponse.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/awcClient/Collections$Collection$CollectionItem.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/awcClient/Collections$Collection$CollectionParent.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/awcClient/Collections$Collection$CollectionSummary.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/awcClient/Collections$Collection.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/awcClient/Collections.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/awcClient/CorrectedQuery.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/awcClient/CustomerReviews.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/awcClient/DecimalWithUnits.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/awcClient/EditorialReview.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/awcClient/EditorialReviews.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/awcClient/Errors$Error.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/awcClient/Errors.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/awcClient/HTTPHeaders$Header.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/awcClient/HTTPHeaders.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/awcClient/Image.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/awcClient/ImageSet.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/awcClient/Item$AlternateVersions$AlternateVersion.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/awcClient/Item$AlternateVersions.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/awcClient/Item$ImageSets.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/awcClient/Item$Subjects.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/awcClient/Item$VariationAttributes.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/awcClient/Item.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/awcClient/ItemAttributes$CatalogNumberList.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/awcClient/ItemAttributes$Creator.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/awcClient/ItemAttributes$EANList.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/awcClient/ItemAttributes$ItemDimensions.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/awcClient/ItemAttributes$Languages$Language.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/awcClient/ItemAttributes$Languages.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/awcClient/ItemAttributes$PackageDimensions.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/awcClient/ItemAttributes$UPCList.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/awcClient/ItemAttributes.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/awcClient/ItemLink.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/awcClient/ItemLinks.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/awcClient/ItemLookup.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/awcClient/ItemLookupRequest.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/awcClient/ItemLookupResponse.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/awcClient/ItemSearch.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/awcClient/ItemSearchRequest.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/awcClient/ItemSearchResponse.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/awcClient/Items.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/awcClient/LoyaltyPoints.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/awcClient/Merchant.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/awcClient/NewReleases$NewRelease.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/awcClient/NewReleases.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/awcClient/NonNegativeIntegerWithUnits.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/awcClient/ObjectFactory.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/awcClient/Offer.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/awcClient/OfferAttributes.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/awcClient/OfferListing$AvailabilityAttributes.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/awcClient/OfferListing.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/awcClient/OfferSummary.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/awcClient/Offers.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/awcClient/OperationRequest.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/awcClient/OtherCategoriesSimilarProducts$OtherCategoriesSimilarProduct.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/awcClient/OtherCategoriesSimilarProducts.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/awcClient/Price.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/awcClient/Promotion$Summary.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/awcClient/Promotion.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/awcClient/Promotions.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/awcClient/Property.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/awcClient/RelatedItem.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/awcClient/RelatedItems.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/awcClient/Request.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/awcClient/SavedForLaterItems.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/awcClient/SearchBinSet.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/awcClient/SearchBinSets.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/awcClient/SearchResultsMap$SearchIndex.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/awcClient/SearchResultsMap.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/awcClient/SimilarProducts$SimilarProduct.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/awcClient/SimilarProducts.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/awcClient/SimilarViewedProducts$SimilarViewedProduct.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/awcClient/SimilarViewedProducts.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/awcClient/SimilarityLookup.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/awcClient/SimilarityLookupRequest.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/awcClient/SimilarityLookupResponse.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/awcClient/StringWithUnits.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/awcClient/TopItemSet$TopItem.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/awcClient/TopItemSet.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/awcClient/TopSellers$TopSeller.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/awcClient/TopSellers.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/awcClient/Tracks$Disc$Track.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/awcClient/Tracks$Disc.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/awcClient/Tracks.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/awcClient/VariationAttribute.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/awcClient/VariationDimensions.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/awcClient/VariationSummary.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/awcClient/Variations.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/awcClient/package-info.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/awcClient/AWSECommerceService.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/awcClient/AWSECommerceServicePortType.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/awcClient/Accessories.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/awcClient/Arguments.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/awcClient/Bin.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/awcClient/BrowseNode.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/awcClient/BrowseNodeLookup.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/awcClient/BrowseNodeLookupRequest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/awcClient/BrowseNodeLookupResponse.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/awcClient/BrowseNodes.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/awcClient/Cart.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/awcClient/CartAdd.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/awcClient/CartAddRequest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/awcClient/CartAddResponse.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/awcClient/CartClear.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/awcClient/CartClearRequest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/awcClient/CartClearResponse.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/awcClient/CartCreate.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/awcClient/CartCreateRequest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/awcClient/CartCreateResponse.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/awcClient/CartGet.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/awcClient/CartGetRequest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/awcClient/CartGetResponse.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/awcClient/CartItem.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/awcClient/CartItems.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/awcClient/CartModify.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/awcClient/CartModifyRequest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/awcClient/CartModifyResponse.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/awcClient/Collections.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/awcClient/CorrectedQuery.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/awcClient/CustomerReviews.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/awcClient/DecimalWithUnits.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/awcClient/EditorialReview.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/awcClient/EditorialReviews.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/awcClient/Errors.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/awcClient/HTTPHeaders.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/awcClient/Image.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/awcClient/ImageSet.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/awcClient/Item.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/awcClient/ItemAttributes.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/awcClient/ItemLink.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/awcClient/ItemLinks.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/awcClient/ItemLookup.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/awcClient/ItemLookupRequest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/awcClient/ItemLookupResponse.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/awcClient/ItemSearch.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/awcClient/ItemSearchRequest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/awcClient/ItemSearchResponse.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/awcClient/Items.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/awcClient/LoyaltyPoints.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/awcClient/Merchant.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/awcClient/NewReleases.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/awcClient/NonNegativeIntegerWithUnits.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/awcClient/ObjectFactory.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/awcClient/Offer.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/awcClient/OfferAttributes.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/awcClient/OfferListing.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/awcClient/OfferSummary.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/awcClient/Offers.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/awcClient/OperationRequest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/awcClient/OtherCategoriesSimilarProducts.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/awcClient/Price.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/awcClient/Promotion.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/awcClient/Promotions.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/awcClient/Property.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/awcClient/RelatedItem.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/awcClient/RelatedItems.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/awcClient/Request.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/awcClient/SavedForLaterItems.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/awcClient/SearchBinSet.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/awcClient/SearchBinSets.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/awcClient/SearchResultsMap.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/awcClient/SimilarProducts.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/awcClient/SimilarViewedProducts.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/awcClient/SimilarityLookup.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/awcClient/SimilarityLookupRequest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/awcClient/SimilarityLookupResponse.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/awcClient/StringWithUnits.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/awcClient/TopItemSet.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/awcClient/TopSellers.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/awcClient/Tracks.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/awcClient/VariationAttribute.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/awcClient/VariationDimensions.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/awcClient/VariationSummary.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/awcClient/Variations.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/awcClient/package-info.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/irahavoi/amazon/AmazonClientW.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/notes" afterPath="$PROJECT_DIR$/src/notes" />
     </list>
     <ignored path="javaWebServices.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -336,12 +119,25 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="notes" pinned="false" current-in-tab="true">
+      <file leaf-file-name="notes" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/notes">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.093023255">
+            <state vertical-scroll-proportion="0.0">
               <caret line="4" column="28" selection-start-line="4" selection-start-column="28" selection-end-line="4" selection-end-column="28" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AmazonClientW.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/irahavoi/amazon/AmazonClientW.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.3255814">
+              <caret line="14" column="31" selection-start-line="14" selection-start-column="21" selection-end-line="14" selection-end-column="31" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#994#1007#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -373,6 +169,7 @@
         <option value="$PROJECT_DIR$/src/com/irahavoi/TimeClient.java" />
         <option value="$PROJECT_DIR$/src/com/irahavoi/DemoSoap.java" />
         <option value="$PROJECT_DIR$/src/notes" />
+        <option value="$PROJECT_DIR$/src/com/irahavoi/amazon/AmazonClientW.java" />
       </list>
     </option>
   </component>
@@ -452,6 +249,28 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="irahavoi" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="javaWebServices" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="javaWebServices" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="irahavoi" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="amazon" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -963,9 +782,20 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/notes">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.093023255">
+        <state vertical-scroll-proportion="0.0">
           <caret line="4" column="28" selection-start-line="4" selection-start-column="28" selection-end-line="4" selection-end-column="28" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/irahavoi/amazon/AmazonClientW.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3255814">
+          <caret line="14" column="31" selection-start-line="14" selection-start-column="21" selection-end-line="14" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#994#1007#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
