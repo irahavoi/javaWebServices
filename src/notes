@@ -1,0 +1,1 @@
+wsgen -keep .cp . com.irahavoi.TimeServerImpl
