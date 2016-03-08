@@ -1,0 +1,6 @@
+//Generating a web service client for the TimeServerImpl
+wsgen -keep .cp . com.irahavoi.TimeServerImpl
+
+//Generating a web service client for the AMazon ECommerce Web Service:
+wsimport -keep -p awsClient http://ecs.amazonaws.com/AWSECommerceService/AWSECommerceService.wsdl
+
